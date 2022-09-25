@@ -1,0 +1,68 @@
+body {
+    background-color: #c06464;
+}
+
+.main{
+
+text-align: center;
+    
+}
+
+img {
+
+    margin-top: 40px;
+   
+
+}
+
+input {
+
+    width: 50% ;
+    margin-top: 20px;
+    margin-left: center;
+    border-radius: 25px 25px;
+    height: 8px;
+        
+}
+
+#icon{
+    background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png') ;
+    background-position: 15px 7px;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    padding: 12px 10px 12px 40px;
+    margin-bottom: 12px;
+
+}
+
+#blok1 {
+    width: 100%;
+}
+
+#blok2 {
+    width: 100%;
+   
+}
+
+
+.but {
+
+    display: flex;
+    justify-content: center;
+    background-color: #c06464 ;
+    flex-flow:row  ;
+}
+
+.but button{
+
+font-size: 13px;
+background-color:#9E9E9E;
+padding-top: 8px;
+padding-bottom: 8px;
+border-radius: 4px;
+margin-left: 5px;
+margin-right: 4px;
+margin: 8px;
+
+
+}

@@ -1,0 +1,26 @@
+.all {
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    padding: 25px;
+    margin-top: 50px;
+    background-color: #F0ECE3;
+    border-bottom: 30px  solid #596E79;
+   
+}
+
+
+.writing {
+   padding-top: 25px;
+    padding-left: 2%;
+    text-align: center;
+    background-color: #DFD3C3;
+    
+}
+
+.dotted_black {
+    border: 3px dotted #C7B198;
+    margin-top: 5px;
+}

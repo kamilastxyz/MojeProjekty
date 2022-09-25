@@ -1,0 +1,24 @@
+body,
+html {
+
+    background-color: black;
+}
+h1 {
+
+        color: #FDD835;
+}
+
+h3, li {
+
+        color: #37474F;
+}
+
+p {
+
+        color: #607D8B;
+}
+
+img{
+    border-radius:  50%;
+    border:5px dotted #FDD835;
+}
