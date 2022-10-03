@@ -1,0 +1,37 @@
+body{
+background-color: black;
+color: white;
+background-image: url("planet-volumes-awYEQyYdHVE-unsplash.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
+margin-top: 0%;
+}
+
+.ZcentralizowanyPrzyciskBardzoFajny {
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    font-size: 15px;
+   margin-top: 0%;
+}
+
+.ZcentralizowanyPrzyciskBardzoFajny h1 {
+    margin: 2%;
+}
+
+.space{
+   color:#da6f18 ;
+}
+
+#logo{
+font-family: 'Montserrat', sans-serif;
+font-size:110px;
+margin-right: 60%;
+margin-top: 35%;
+}
+
+.terms{
+color: white;
+text-align: center;
+margin-top: 10%;
+font-size: 130%;
+}
