@@ -1,8 +1,7 @@
 .all {
     display: flex;
     justify-content: space-around;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     width: 600px;
     padding: 25px;
     margin-top: 50px;
@@ -17,6 +16,7 @@
     padding-left: 2%;
     text-align: center;
     background-color: #DFD3C3;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
 

@@ -1,24 +1,24 @@
 body,
 html {
 
-    background-color: black;
+    background-color: #011015;
 }
 h1 {
 
-        color: #FDD835;
+        color: #a24929;
 }
 
 h3, li {
 
-        color: #37474F;
+        color: #ad6a2a;
 }
 
 p {
 
-        color: #607D8B;
+        color: #8e6f21;
 }
 
 img{
     border-radius:  50%;
-    border:5px dotted #FDD835;
+    border:5px dotted #043645;
 }
